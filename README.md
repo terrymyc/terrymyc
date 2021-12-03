@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a maintainer of [ASReview LAB](https://github.com/asreview/asreview).
+I'm a maintainer of [ASReview LAB](https://github.com/asreview/asreview).
 
 - 🔭 I’m currently working on the design and development of the new interactive interface for the upcoming milestone 1.0 release of ASReview LAB.
 - :star: Featured pull requests:
